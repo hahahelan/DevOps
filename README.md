@@ -1,2 +1,4 @@
 # DevOps
-Hello, HaHaHa here!
+ Johnny Johnny, Yes Papa
+ Eating Sugar, No Papa
+ Telling Lies, No Papa
